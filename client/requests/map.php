@@ -121,7 +121,7 @@ include_once("../others/config.php");
     }
   </script>
   <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAxbbITRt4PXZzUtbzKP4Jh60VrnrzuewM&callback=initMap">
+    src="your_api_key">
     </script>
 </body>
 </html>

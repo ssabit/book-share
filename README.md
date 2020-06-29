@@ -9,7 +9,7 @@ This a web application platform for who loves to read books. In this platform us
 * [MySQL](https://www.mysql.com/) - Used to store data
 
 
-## Authors
+## Author
 
 * **Saad Ibna Omar Sabit** - [linkedin](https://www.linkedin.com/in/sabit/)
 

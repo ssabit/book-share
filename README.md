@@ -13,16 +13,32 @@
 
 
 
-This a web application platform for who loves to read books. In this platform users can post for books to share or exchange with other members. Users can add books list in their profile. They can get book suggestion by their existing book list author, publisher, Genre.
+This a web application platform for who loves to read books. In this platform users can post for books to share or exchange with other members. Users can add books list in their profile. They can get book recommendation by their existing book list author, publisher, Genre.
+
+## Core Features:
+
+i. Book Recommendation with filtering
+
+ii. Book Exchange
+
+iii. Book List
+
+iv. Create Post in Forum
+
+v. Book Exchange Location
+
+
 
 ## Built With
 
 * [Bootstrap](https://getbootstrap.com/) - Front-end framework
-* [PHP](https://www.php.net/) - PHP Back-end language
-* [MySQL](https://www.mysql.com/) - Used to store data
+* [PHP](https://www.php.net/) - Back-end language
+* [MySQL](https://www.mysql.com/) - Database
+* [Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/overview) - Google Maps Platform
 
 
-## Contributors
+
+## Authors
 
 * **Saad Ibna Omar Sabit** - [linkedin](https://www.linkedin.com/in/sabit/)
 
